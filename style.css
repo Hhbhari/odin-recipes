@@ -1,0 +1,11 @@
+body{
+    font-family: "Chakra Petch", "PT Sans", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #DDD0C8;
+}
+
+h1{
+    margin: 0;
+    padding: 10px;
+    border: 2px;
+    color: #323232;
+}
